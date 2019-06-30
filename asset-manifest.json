@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/github.io/pro_one/static/js/main.f452ad53.chunk.js",
-    "main.js.map": "/github.io/pro_one/static/js/main.f452ad53.chunk.js.map",
-    "runtime~main.js": "/github.io/pro_one/static/js/runtime~main.abe4a677.js",
-    "runtime~main.js.map": "/github.io/pro_one/static/js/runtime~main.abe4a677.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/github.io/pro_one/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/github.io/pro_one/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/github.io/pro_one/index.html",
-    "precache-manifest.6d18e631ad8c6a887eeb18905cb22baf.js": "/github.io/pro_one/precache-manifest.6d18e631ad8c6a887eeb18905cb22baf.js",
-    "service-worker.js": "/github.io/pro_one/service-worker.js"
+    "main.js": "/pro_one/static/js/main.f452ad53.chunk.js",
+    "main.js.map": "/pro_one/static/js/main.f452ad53.chunk.js.map",
+    "runtime~main.js": "/pro_one/static/js/runtime~main.2b279ad9.js",
+    "runtime~main.js.map": "/pro_one/static/js/runtime~main.2b279ad9.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/pro_one/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/pro_one/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/pro_one/index.html",
+    "precache-manifest.42f8ea5d91e6c7f7cc5d75d7b01f9344.js": "/pro_one/precache-manifest.42f8ea5d91e6c7f7cc5d75d7b01f9344.js",
+    "service-worker.js": "/pro_one/service-worker.js"
   }
 }
