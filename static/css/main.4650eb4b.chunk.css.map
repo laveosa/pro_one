@@ -1,1 +1,0 @@
-{"version":3,"sources":["C:\\Users\\Admin\\DEV\\React\\pro_one/src\\styles.scss"],"names":[],"mappings":"AAAA,KACI,YAAa,CACb,eAAgB,CAFpB,cAIQ,WAAY","file":"main.4650eb4b.chunk.css","sourcesContent":["body {\r\n    height: 100vh;\r\n    overflow-y: auto;\r\n    #rootApp {\r\n        height: 100%;\r\n    }\r\n}"]}
